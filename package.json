@@ -1,0 +1,22 @@
+{
+  "name": "test-study-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "learn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmxlove/test-study-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmxlove/test-study-git/issues"
+  },
+  "homepage": "https://github.com/lmxlove/test-study-git#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
